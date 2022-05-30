@@ -1,1 +1,1 @@
-# [Click here for htlm basics](/html-basics/README.md)
+# [Click here for html basics](/html-basics/README.md)
