@@ -608,3 +608,10 @@ The `style` attribute accepts css to describe the style of a single element.
 <div style="color: red; font-weight: bold">This text is red and bold</div>
 
 
+
+### Title
+The `title` attribute adds a tooltip to an element that shows up when you hover over it for a long time.
+```html
+<div title="I am a tooltip">Hover over me</div>
+```
+<div title="I am a tooltip">Hover over me</div>
