@@ -443,6 +443,24 @@ Here's what this looks like:
 
 ---
 
+### Horizontal Rule
+
+The `hr` tag will add a horizontal line to mark a thematic break.
+```html
+<hr>
+```
+<hr>
+
+---
+
+### Line break
+
+The `br` tag will add a line break to text.
+```html
+<p>Line 1<br>Line 2</p>
+```
+<p>Line 1<br>Line 2</p>
+
 ### Hyperlinks
 
 Hyperlinks are used to navigate the user to different sites, or other sections of the current site. The `href` attribute is used to tell the browser where to navigate to when the link is clicked, while the content of the element defines what the link will look like.
