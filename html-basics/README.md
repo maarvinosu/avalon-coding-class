@@ -461,6 +461,27 @@ The `br` tag will add a line break to text.
 ```
 <p>Line 1<br>Line 2</p>
 
+---
+
+### Preformatted text
+
+The `<pre>` tag defines preformatted text. All of it's content is displayed in a fixed-width font and all whitespaces are preserved.
+
+```html
+<pre>
+Line 1
+  Line 2
+    Line 3
+</pre>
+```
+<pre>
+Line 1
+  Line 2
+    Line 3
+</pre>
+
+
+
 ### Hyperlinks
 
 Hyperlinks are used to navigate the user to different sites, or other sections of the current site. The `href` attribute is used to tell the browser where to navigate to when the link is clicked, while the content of the element defines what the link will look like.
